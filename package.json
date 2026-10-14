@@ -1,0 +1,10 @@
+{
+  "name": "academiapulse-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AcademiaPulse ERP - role-based college management portal for Node.js lab",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node --watch server.js", "test": "node --test tests/*.test.js"},
+  "engines": {"node": ">=18"},
+  "license": "MIT"
+}
